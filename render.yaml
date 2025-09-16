@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: brain-backend
+    env: node
+    rootDir: brain-metaverse-metaverse-backend-383d33a8ca66
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: 18
