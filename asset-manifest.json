@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Brain/static/css/main.7f5a829a.css",
-    "main.js": "/Brain/static/js/main.df48e5ae.js",
+    "main.js": "/Brain/static/js/main.c1d0b0f9.js",
     "static/js/488.6d54e64d.chunk.js": "/Brain/static/js/488.6d54e64d.chunk.js",
     "static/media/Pacifico-Regular.ttf": "/Brain/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
     "static/media/Petemoss-Regular.ttf": "/Brain/static/media/Petemoss-Regular.3b769886fc2efbf2b5a2.ttf",
     "static/media/Roboto-Regular.ttf": "/Brain/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
     "index.html": "/Brain/index.html",
     "main.7f5a829a.css.map": "/Brain/static/css/main.7f5a829a.css.map",
-    "main.df48e5ae.js.map": "/Brain/static/js/main.df48e5ae.js.map",
+    "main.c1d0b0f9.js.map": "/Brain/static/js/main.c1d0b0f9.js.map",
     "488.6d54e64d.chunk.js.map": "/Brain/static/js/488.6d54e64d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f5a829a.css",
-    "static/js/main.df48e5ae.js"
+    "static/js/main.c1d0b0f9.js"
   ]
 }
